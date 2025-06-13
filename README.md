@@ -1,18 +1,26 @@
 # AirBnB-Listing-Analysis
 Melbourne Airbnb Listing Analysis
 
-# 1. Project Background
+## Project Background
 
 With Melbourne's popularity as a tourist attraction and for business purposes, many people are coming to Melbourne and looking for a temporary home or a place to stay for the night. Some place have a good location, price, and the type of availability that impact performance. This project throrougly analyze and sysntesizes data in order to unvocer insights that will help home owner know where to make their listings a success.
 
 Insights and recommendations are provided on the following key areas:
 
-  - **Location Analaysis:** Giving potential host a clear idea of which location around Melbourne subrubs that are perfoming well
+  - **Location Analysis:** Giving potential hosts a clear idea of which locations around Melbourne suburbs are performing well
+  - **Listing Analysis:** Help potential host know what are the most popular housing type is in melbourne.
   - **Pricing Analysis:** Help host understand pricing through analysis to compare room types and location so they can attract more bookings to their listings.
-  - **Availability Comparison:** An assessment of the availability of listings between listings over the year.
+  - **Availability Comparison:** An assessment of the availability of listings over the year.
+
+## Executive Summary
 
 
 
-# 2. Executive Driven Question
+## Insights Deep-Dive
 
-1. 
+### Location Analysis
+
+- City of Melbourne has the highest number of listings with total of 8237 listing followed by Port Phillip and Yarra.
+- Serveral city such as Stonnington and Yarra and moreland also have more than 1000 listings
+- other cities such as Knox, Frankston are the cities that have lower number of listing. This also directly correlate with entertainment there since Yarra Ranges, Melbourne CBD have a lot of entertainment sector but Frankston not so much.
+![Image](https://github.com/user-attachments/assets/ef7205b8-82f5-4b53-a8ca-ff3e72a9bb80)
