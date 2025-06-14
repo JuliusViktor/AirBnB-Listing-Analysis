@@ -20,9 +20,11 @@ Insights and recommendations are provided on the following key areas:
 
 ### Location Analysis
 
-- City of Melbourne has the highest number of listings with total of 8237 listing followed by Port Phillip and Yarra.
-- Serveral city such as Stonnington and Yarra and moreland also have more than 1000 listings
-- other cities such as Knox, Frankston are the cities that have lower number of listing. This also directly correlate with entertainment there since Yarra Ranges, Melbourne CBD have a lot of entertainment sector but Frankston not so much.
-- In terms of number of review Melbourne have the highest number of review with total of more than 36 thousand reviews considiering the high number of listing in CBD are this is normal, However rare cases such as Monash that only has total of 653 listings they had a large number of review with more than 13 thousands review and average rating of 4.6
+- **City of Melbourne** has the highest number of listings with **8237**
+- **Port Phillip** and **Yarra** also have a large number of listings offering diverse accommodation.
+- Some areas have much fewer listings, likely due to fewer tourist attractions.
+- In regard to guest rating and guest review with more than 36000 of reviews thanks to it central location and attractions
+- there is also some outlier such as **City of Monash** where it omly have 653 listings but over 13,000 reviews with an avarage rating of **4.6** this suggest a strong guest satisfaction possibily due to quality stays and proximity to universities and business hub.
+
 ![Image](https://github.com/user-attachments/assets/ef7205b8-82f5-4b53-a8ca-ff3e72a9bb80)
 <img width="458" alt="Image" src="https://github.com/user-attachments/assets/fc0fd733-4822-4e8a-9e41-582e8a5ce768" />
