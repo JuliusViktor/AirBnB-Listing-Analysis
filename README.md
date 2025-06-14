@@ -27,4 +27,4 @@ Insights and recommendations are provided on the following key areas:
 - there is also some outlier such as **City of Monash** where it omly have 653 listings but over 13,000 reviews with an avarage rating of **4.6** this suggest a strong guest satisfaction possibily due to quality stays and proximity to universities and business hub.
 
 ![Image](https://github.com/user-attachments/assets/ef7205b8-82f5-4b53-a8ca-ff3e72a9bb80)
-<img width="458" alt="Image" src="https://github.com/user-attachments/assets/fc0fd733-4822-4e8a-9e41-582e8a5ce768" />
+![Image](https://github.com/user-attachments/assets/4350d855-101f-4c7d-91e5-876ce7faf6cb)
