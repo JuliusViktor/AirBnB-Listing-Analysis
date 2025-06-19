@@ -22,12 +22,17 @@ Insights and recommendations are provided on the following key areas:
 - Regarding guest rating and guest review, with more than 36000 reviews, thanks to its central location and attractions
 - There are also some outliers, such as **City of Monash**, which has only 653 listings but over 13,000 reviews with an average rating of **4.6**. This suggests strong guest satisfaction, possibly due to the quality of stays and proximity to universities and business hubs.
 
-![Image](https://github.com/user-attachments/assets/ef7205b8-82f5-4b53-a8ca-ff3e72a9bb80)
-![Image](https://github.com/user-attachments/assets/4350d855-101f-4c7d-91e5-876ce7faf6cb)
+![Image](https://github.com/user-attachments/assets/560015e5-3cbf-477d-8ad9-0ca730e60420)![Image](https://github.com/user-attachments/assets/4350d855-101f-4c7d-91e5-876ce7faf6cb)
 
-### Listing Analysis
+### Listing Type Analysis
 
 - There are 4 types of rooms in the listing, where an entire home/apartment is listed the most followed by private rooms. Compared to the two hotel rooms and the shared room is not listed as much
-- Entire home or apartment are the dominant room type in major part of suburbs like **Melbourne CBD, Port Phillip and Yarra** but private rooms are more common in outer subrubs like **Moreland**.
+- Entire home or apartment are the dominant room type in major part of suburbs like **Melbourne CBD, Port Phillip and Yarra**, but private rooms are more common in outer subrubs like **Moreland**.
+- The average rating across all the room types is 4.7, except for the hotel room, which is 4.5. These ratings represent the average of all suburbs in the dataset.
 ![Image](https://github.com/user-attachments/assets/a9995bb8-cda8-4ab9-9b08-0573d3243eb2)
 ![Image](https://github.com/user-attachments/assets/76b86ab4-fce9-421c-bdb6-a8787f3aff31)
+![Image](https://github.com/user-attachments/assets/6b88a34b-e79a-4a37-b5b5-3c167c060568)
+
+### Pricing Analysis
+
+- 
