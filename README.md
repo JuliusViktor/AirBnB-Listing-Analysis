@@ -26,13 +26,14 @@ Insights and recommendations are provided on the following key areas:
 
 ### Listing Type Analysis
 
-- There are 4 types of rooms in the listing, where an entire home/apartment is listed the most followed by private rooms. Compared to the two hotel rooms and the shared room is not listed as much
-- Entire home or apartment are the dominant room type in major part of suburbs like **Melbourne CBD, Port Phillip and Yarra**, but private rooms are more common in outer subrubs like **Moreland**.
-- The average rating across all the room types is 4.7, except for the hotel room, which is 4.5. These ratings represent the average of all suburbs in the dataset.
+- There are four distinct room types in the listings: **Entire Home/Apartment, Private Room, Shared Room** and **Hotel Room**. Among these, _Entire Home/Apartment _is the most commonly listed followed by _Private Room_. In contrast, _Shared Room_ and _Hotel Room_ represents a much smaller portion of the listings.
+- Entire _Home/Apartment_ listings dominate in central and inner-city subrubs such as **Melbourne CBD, Port Phillips,** and **Yarra**. Meanwhile, _Private Rooms_ are more common in outer suburbs, particularly in areas like **Moreland**.
+- The **average guest rating** across all room types is **4.7 out of 5**, with exception of _hotel rooms_, which have a slightly lower average rating of **4.5**. These average are calculated across all suburbs included in the dataset.
 ![Image](https://github.com/user-attachments/assets/a9995bb8-cda8-4ab9-9b08-0573d3243eb2)
 ![Image](https://github.com/user-attachments/assets/76b86ab4-fce9-421c-bdb6-a8787f3aff31)
 ![Image](https://github.com/user-attachments/assets/6b88a34b-e79a-4a37-b5b5-3c167c060568)
 
 ### Pricing Analysis
 
+- The majority of Airbnb listings across Victoria are priced in the $100–150 and $150–200 ranges, with each category containing approximately 4,000 listings.
 - 
