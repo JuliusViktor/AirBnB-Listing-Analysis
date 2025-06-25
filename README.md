@@ -41,4 +41,4 @@ Insights and recommendations are provided on the following key areas:
 
 ![Image](https://github.com/user-attachments/assets/2ba62b9e-216d-4e6f-bbec-9f66e8edb051)
 ![Image](https://github.com/user-attachments/assets/90649ae6-04eb-4500-86f0-73dca4b404d7)
-![Image](https://github.com/user-attachments/assets/45d92943-845d-46f0-a0d6-03089f113d75)
+![Image](https://github.com/user-attachments/assets/3ce7740b-f282-4c29-b5f8-57b5145e62ae)
