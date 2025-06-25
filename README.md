@@ -36,4 +36,9 @@ Insights and recommendations are provided on the following key areas:
 ### Pricing Analysis
 
 - The majority of Airbnb listings across Victoria are priced in the $100–150 and $150–200 ranges, with each category containing approximately 4,000 listings.
-- 
+- Melbourne CBD maintains high pricing across all room type. Moreland private rooms far exceed its entire home, indicating a possible outliers. Port Phillip seesstrong demand with hotel and entire homes averaging $350. Wyndham's shared rooms are priced above private room suggesting pricing inconsistencies. Additionally, Yarrra Ranges shows high entire home prices aligning wwith deman for retreats or group stays.
+- The median price for a private room is around **$100** where most listing fall between **$50 - 150** but there are many outliers where some reach **$800++** this suggest that there are overpricing or luxury offerings. \
+
+![Image](https://github.com/user-attachments/assets/2ba62b9e-216d-4e6f-bbec-9f66e8edb051)
+![Image](https://github.com/user-attachments/assets/90649ae6-04eb-4500-86f0-73dca4b404d7)
+![Image](https://github.com/user-attachments/assets/45d92943-845d-46f0-a0d6-03089f113d75)
