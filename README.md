@@ -3,15 +3,21 @@ Melbourne Airbnb Listing Analysis
 
 ## Project Background
 
-With Melbourne's popularity as a tourist attraction and for business purposes, many people are coming to Melbourne and looking for a temporary home or a place to stay for the night. Some places have a good location, price, and the type of availability that impact performance. This project throrougly analyze and sysntesizes data to unvocer insights that will help home owner know where to make their listings a success. The purpose of this project is to crate analysis and help marketing team to attract more property owner to become one of the host in Airbnb.
+With Melbourne's popularity as a tourist attraction and for business purposes, many people are coming to Melbourne and looking for a temporary home or a place to stay for the night. Some places have a good location, price, and the type of availability that impact performance. This project throrougly analyze and sysntesizes data to unvocer insights that will help home owner know where to make their listings a success. The purpose of this project is to create an analysis and help the marketing team attract more property owners to become hosts on Airbnb.
 
 Insights and recommendations are provided on the following key areas:
 
   - **Location Analysis:** Giving potential hosts a clear idea of which locations around Melbourne suburbs are performing well
   - **Listing Analysis:** Help potential hosts know what the most popular housing type is in Melbourne.
   - **Pricing Analysis:** Help host understand pricing through analysis to compare room types and location so they can attract more bookings to their listings.
-  - **Availability Comparison:** An assessment of the availability of listings over the year.
 
+### Data
+Source : https://insideairbnb.com/
+Total Data: 76 Collumns and 25382 Rows
+
+### Data Schema
+
+[airbnb_lucidchart.pdf](https://github.com/user-attachments/files/20951890/airbnb_lucidchart.pdf)
 
 ## Insights Deep-Dive
 
@@ -37,8 +43,29 @@ Insights and recommendations are provided on the following key areas:
 
 - The majority of Airbnb listings across Victoria are priced in the $100–150 and $150–200 ranges, with each category containing approximately 4,000 listings.
 - Melbourne CBD maintains high pricing across all room type. Moreland private rooms far exceed its entire home, indicating a possible outliers. Port Phillip seesstrong demand with hotel and entire homes averaging $350. Wyndham's shared rooms are priced above private room suggesting pricing inconsistencies. Additionally, Yarrra Ranges shows high entire home prices aligning wwith deman for retreats or group stays.
-- The median price for a private room is around **$100** where most listing fall between **$50 - 150** but there are many outliers where some reach **$800++** this suggest that there are overpricing or luxury offerings. \
+- The median price for a private room is around **$100** where most listing fall between **$50 - 150** but there are many outliers where some reach **$800++** this suggest that there are overpricing or luxury offerings.
+- The spread in prices across suburbs widens at higher capacities, that indicates location become more significant factor for large accomodation than small ones, which tends to have more consistent pricing across areas.
 
 ![Image](https://github.com/user-attachments/assets/2ba62b9e-216d-4e6f-bbec-9f66e8edb051)
 ![Image](https://github.com/user-attachments/assets/90649ae6-04eb-4500-86f0-73dca4b404d7)
 ![Image](https://github.com/user-attachments/assets/1e7577ae-50e8-4063-9724-e99197e25c6f)
+![Image](https://github.com/user-attachments/assets/5b38ab37-83dc-4a44-8f79-b6aee5b38431)
+
+## Recommendations
+
+### Location Analysis 
+1. **Promote listing in underrepresented areas** with a lot of suburbs that have a growth potential, by partnering with local businesses and attractions, it can lead to positioning these locations as an emerging location and increase popularity.
+2.  Suburbs with high ratings but fewer listings often indicate hosts who exceed guest expectations. This can include clear communication and thoughtful amenities that lead to better reviews and repeat bookings, even in low-traffic areas.
+3.  **Leverage positive guest sentiment in outlier markets**, which have extremely high reviews and strong ratings. By creating targeted campaigns, we can highlight listings as hidden gems to attract new guests.
+
+### Listing Type Analysis
+1. **Target promotions around Entire/Home Apartments** in central suburbs like Melbourne CBD, Port Phillip, and Yarra, since these listings dominate and align with traveler preference for privacy and larger spaces.
+2. **Consider Private Rooms in outer suburbs** to tap into growing budget-conscious traveler segments or students needing affordable stays.
+3. **Invest in Entire Homes/Apartment** in central areas if budget allowed, as some of the listings consistenyly attract high demand and achieve strong guest ratings.
+4. **Highlighting competitive advantages of a Private Room** in marketing campagins for outer subrubs like Moreland, positioning them as budget-friendly alternatives then to central accommodations.
+
+### Pricing Analysis
+1. **Promote affordability segments** by highlighting well-priced private rooms in $50 - $150 range across marketing materials to attract budget-conscious travellers.
+2. **Emphasize premium listings** in marketing campgaigns for high-demand areas like Melbourne CBD and Port Phillip, showcassing them as desirable options for travellers seeking quality and more near to central locations.
+3. **Consider property capacity when setting price** for larger accommodations, factor in suburb-specific demand since location impact grows with listing size.
+4. Educate hosts on luxury positioning, ensuring listings with unusually high prices that are justified with unique features or amenities to avoid deterring potential guests.
