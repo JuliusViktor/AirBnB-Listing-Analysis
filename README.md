@@ -17,7 +17,7 @@ Total Data: 76 Collumns and 25382 Rows
 
 ### Data Schema
 
-[airbnb_lucidchart.pdf](https://github.com/user-attachments/files/20951890/airbnb_lucidchart.pdf)
+![Image](https://github.com/user-attachments/assets/bedaebfa-795e-4a2f-9140-212d0affa0c1)
 
 ## Insights Deep-Dive
 
